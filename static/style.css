@@ -100,8 +100,8 @@ p {
 
 
 img.headshot {
-    width:120px;
-    max-width:100%;
+    width:140px;
+    max-width:120%;
     float:left
 }
 
